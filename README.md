@@ -1,5 +1,4 @@
 # Pesan-Helper
-#this is for codeigniter
 <br />
 How to use 
 <br />
